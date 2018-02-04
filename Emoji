@@ -1,0 +1,4 @@
+.emoji{ width: 30px; height: 30px } /in text/
+.emoji.jumboable{ width: 45px; height: 45px} /solo/
+.reactions .emoji{ width: 20px; height: 20px } /reactions/
+.titleWrapper-3Vi_wz .emoji{ width: 20px; height: 20px } /emojis in channel description/
